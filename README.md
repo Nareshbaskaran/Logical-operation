@@ -46,6 +46,7 @@ Logic gates are the basic building blocks of any digital system. It is an electr
 
 ## CIRCUIT DIAGRAM:
 
+
 ## OUTPUT:
 
 ## RESULT:
